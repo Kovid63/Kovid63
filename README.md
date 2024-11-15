@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kovid63](https://github.com/Kovid63)
 
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Building cool stuff :)**
 
 - 📫 How to reach me **kovid63@gmail.com**
 
