@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kovid63](https://github.com/Kovid63)
-
-- 💬 Ask me about **Building cool stuff :)**
-
-- 📫 How to reach me **kovid63@gmail.com**
+**Building cool stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
