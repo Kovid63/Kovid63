@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1>{`Breaking things just to put them back together...better (probably) 🔧🕵️‍♂️ Turning 'oops' into 'aha!' moments daily, with only a few sparks flying!\n`}</h1>
+<h1>Breaking things just to put them back together...better (probably) 🔧🕵️‍♂️ Turning 'oops' into 'aha!' moments daily, with only a few sparks flying!</h1>
 
 
 <h3 align="left">Connect with me:</h3>
